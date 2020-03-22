@@ -1,5 +1,8 @@
 name: Build, test and deploy
-on: push
+on:
+  push:
+    paths-ignore:
+      - "*.md"
 env:
   DOCKER_REPOSITORY: acouvreur/create-react-app-vscode-template
   CI: true
@@ -28,3 +31,9 @@ jobs:
           repository: ${{ env.DOCKER_REPOSITORY }}
           tag_with_ref: true
           add_git_labels: true
+
+      - name: Deploy to Github Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          publish_dir: ./public
