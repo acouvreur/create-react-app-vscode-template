@@ -2,6 +2,7 @@
   "name": "create-react-app-vscode-template",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://acouvreur.github.io/create-react-app-vscode-template/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
