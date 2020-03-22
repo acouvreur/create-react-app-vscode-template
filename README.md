@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![.github/workflows/pipeline.yml](https://github.com/acouvreur/create-react-app-vscode-template/workflows/.github/workflows/pipeline.yml/badge.svg)
+![Build, test and deploy](https://github.com/acouvreur/create-react-app-vscode-template/workflows/Build,%20test%20and%20deploy/badge.svg)
+
+[![Dependabot Status][dependabot-badge]][dependabot-link]
 
 ## Available Scripts
 
