@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![.github/workflows/pipeline.yml](https://github.com/acouvreur/create-react-app-vscode-template/workflows/.github/workflows/pipeline.yml/badge.svg)
+
 ## Available Scripts
 
 In the project directory, you can run:
