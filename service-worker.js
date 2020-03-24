@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/create-react-app-vscode-template/precache-manifest.38e5c36798ae1c796cb6529137712a93.js"
+  "/create-react-app-vscode-template/precache-manifest.2de5d94b9569d64114903bed9fac3032.js"
 );
 
 self.addEventListener('message', (event) => {
