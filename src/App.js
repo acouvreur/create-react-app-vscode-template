@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>Version: {process.env.REACT_APP_VERSION}</p>
       </header>
     </div>
   )
