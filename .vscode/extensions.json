@@ -4,6 +4,7 @@
         "esbenp.prettier-vscode",
         "CoenraadS.bracket-pair-colorizer-2",
         "orta.vscode-jest",
-        "msjsdiag.debugger-for-chrome"
+        "msjsdiag.debugger-for-chrome",
+        "gcazaciuc.vscode-flow-ide"
     ]
 }
