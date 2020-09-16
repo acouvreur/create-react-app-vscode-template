@@ -8,8 +8,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test --modulePaths=src",
     "eject": "react-scripts eject",
-    "analyze": "source-map-explorer 'build/static/js/*.js'",
-    "flow": "flow"
+    "analyze": "source-map-explorer 'build/static/js/*.js'"
   },
   "eslintConfig": {
     "extends": "react-app"
