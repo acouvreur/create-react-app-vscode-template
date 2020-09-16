@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/create-react-app-vscode-template/static/css/main.5f361e03.chunk.css",
-    "main.js": "/create-react-app-vscode-template/static/js/main.725a2473.chunk.js",
-    "main.js.map": "/create-react-app-vscode-template/static/js/main.725a2473.chunk.js.map",
+    "main.js": "/create-react-app-vscode-template/static/js/main.4b24c8d5.chunk.js",
+    "main.js.map": "/create-react-app-vscode-template/static/js/main.4b24c8d5.chunk.js.map",
     "runtime-main.js": "/create-react-app-vscode-template/static/js/runtime-main.8d671a88.js",
     "runtime-main.js.map": "/create-react-app-vscode-template/static/js/runtime-main.8d671a88.js.map",
     "static/js/2.8d5624ba.chunk.js": "/create-react-app-vscode-template/static/js/2.8d5624ba.chunk.js",
     "static/js/2.8d5624ba.chunk.js.map": "/create-react-app-vscode-template/static/js/2.8d5624ba.chunk.js.map",
     "index.html": "/create-react-app-vscode-template/index.html",
-    "precache-manifest.e6f7ce017afe95e820079c52739ce93e.js": "/create-react-app-vscode-template/precache-manifest.e6f7ce017afe95e820079c52739ce93e.js",
+    "precache-manifest.c495a863aa68d63db90a756e187c3929.js": "/create-react-app-vscode-template/precache-manifest.c495a863aa68d63db90a756e187c3929.js",
     "service-worker.js": "/create-react-app-vscode-template/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/create-react-app-vscode-template/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.8d5624ba.chunk.js.LICENSE.txt": "/create-react-app-vscode-template/static/js/2.8d5624ba.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.8d671a88.js",
     "static/js/2.8d5624ba.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.725a2473.chunk.js"
+    "static/js/main.4b24c8d5.chunk.js"
   ]
 }
