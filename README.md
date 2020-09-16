@@ -2,7 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![Build, test and deploy](https://github.com/acouvreur/create-react-app-vscode-template/workflows/Build,%20test%20and%20deploy/badge.svg)
 
-[![Dependabot Status][dependabot-badge]][dependabot-link]
+## Github secrets
+
+- `DOCKER_USERNAME`
+- `DOCKER_PASSWORD`
+- `ACTIONS_DEPLOY_KEY` [See details](https://github.com/marketplace/actions/github-pages-action#%EF%B8%8F-create-ssh-deploy-key)
 
 ## Available Scripts
 

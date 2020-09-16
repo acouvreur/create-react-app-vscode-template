@@ -10,5 +10,5 @@
         "editor.formatOnSave": true
     },
     "javascript.validate.enable": false,
-    "jest.pathToJest": "npm run test -- --watch=false"
+    "jest.pathToJest": "npm run test -- --watch=false",
 }
