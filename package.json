@@ -35,6 +35,6 @@
   },
   "devDependencies": {
     "@types/jest": "^26.0.14",
-    "source-map-explorer": "^2.5.0"
+    "source-map-explorer": "^2.5.1"
   }
 }
